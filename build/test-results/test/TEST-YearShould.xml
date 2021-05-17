@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YearShould" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-05-17T04:45:24" hostname="DESKTOP-N8LL0OM" time="0.037">
+  <properties/>
+  <testcase name="[1] 2008" classname="YearShould" time="0.029"/>
+  <testcase name="[2] 2012" classname="YearShould" time="0.001"/>
+  <testcase name="[3] 2016" classname="YearShould" time="0.001"/>
+  <testcase name="be_divisible_by_400()" classname="YearShould" time="0.0"/>
+  <testcase name="not_be_divisible_by_100_and_divisible_by_400()" classname="YearShould" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
